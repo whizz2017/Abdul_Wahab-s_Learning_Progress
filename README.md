@@ -9,3 +9,14 @@ Abdul Wahab's Codecademy learning 07/30/2024.
 Abdul Wahab's Codecademy learning 07/30/2024.
 
 ![image](https://github.com/user-attachments/assets/771298a4-f3cb-4b3c-aaa2-2fca76c766b2)
+
+**To Compile C++ program in terminal we use the following command**
+
+g++ hello.cpp -o hello
+
+**To Run C++ program in terminal we use the following command**
+
+./hello
+
+![image](https://github.com/user-attachments/assets/a7e2e125-ca32-45cc-8276-16edd98fa8d0)
+

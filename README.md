@@ -20,3 +20,9 @@ g++ hello.cpp -o hello
 
 ![image](https://github.com/user-attachments/assets/a7e2e125-ca32-45cc-8276-16edd98fa8d0)
 
+Briefed first 3 paragraph of introduction to variables today .
+
+https://www.codecademy.com/courses/learn-c-plus-plus/lessons/cpp-variables/exercises/introduction
+
+![image](https://github.com/user-attachments/assets/2cc28ac5-8a2a-4750-98cc-219230a4e149)
+

@@ -26,3 +26,8 @@ https://www.codecademy.com/courses/learn-c-plus-plus/lessons/cpp-variables/exerc
 
 ![image](https://github.com/user-attachments/assets/2cc28ac5-8a2a-4750-98cc-219230a4e149)
 
+Learned variable declaration and initialization on 06-10-2024
+
+![image](https://github.com/user-attachments/assets/2d93f90f-c015-4505-862b-66538fc7f3ac)
+
+
